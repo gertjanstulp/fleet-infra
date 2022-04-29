@@ -1,5 +1,0 @@
-# weave-gitops-values.yaml
-adminUser:
-  create: true
-  username: admin
-  passwordHash: $2a$10$Bb0CwDSrbq0pdxY7u0zYe.bbljxpwhKt6OZEtW8U3EGcEye/ulyoy
